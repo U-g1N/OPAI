@@ -1,6 +1,5 @@
 # OPAI - One Punch Arch Installer
-
-
+Install frequently used Pentesting and CTF tools in Arch Linux.
 
 # Tools
 ```
