@@ -8,7 +8,7 @@ binwalk        cherrytree     crunch        dex2jar
 dirbuster      dirsearch      dnsenum       dnsmap
 enum4linux     fcrackzip      foremost      gdb
 ghidra         git            gobuster      hashcat
-hping3         hydra          jd-gui        john
+hping          hydra          jd-gui        john
 johnny         joomscan       linenum.sh    metasploit-framework
 nikto          nmap           pdfcrack      peda  
 pngcheck       radare2        recon-ng      ROPGadget  
