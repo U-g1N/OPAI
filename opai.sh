@@ -3,20 +3,7 @@
 echo -e "\e[1;42m OnePunchInstall Loaded \e[0m"
 sudo pacman -Syu --noconfirm 
 echo -e "\e[1;42m Updated and Upgraded \e[0m"
-sudo pacman -S --noconfirm git
-sudo pacman -S --noconfirm gcc
-sudo pacman -S --noconfirm make
-sudo pacman -S --noconfirm perl
-sudo pacman -S --noconfirm ruby
-sudo pacman -S --noconfirm python-pip
-sudo pacman -S --noconfirm ruby-bundler
-sudo pacman -S --noconfirm libconfig qt5-base
-sudo pacman -S --noconfirm go
-sudo pacman -S --noconfirm jre11-openjdk-headless
-sudo pacman -S --noconfirm jdk11-openjdk
-sudo pacman -S --noconfirm gnupg
-sudo pacman -S --noconfirm p7zip
-sudo pacman -S --noconfirm gpgme autoconf bison curl git-core apr apr-util libpcap-dev libpqxx haskell-postgresql-libpq libreadline sqlite openssl subversion websvn libtool libxml2 libxslt libyaml locate findutils ncurses openssl postgresql wget xsel zlib
+sudo pacman -S --noconfirm git gcc make perl ruby python-pip ruby-bundler libconfig qt5-base go jre11-openjdk-headless jdk11-openjdk gnupg p7zip gpgme autoconf bison curl git-core apr apr-util libpcap-dev libpqxx haskell-postgresql-libpq libreadline sqlite openssl subversion websvn libtool libxml2 libxslt libyaml locate findutils ncurses openssl postgresql wget xsel zlib
 echo -e "\e[1;42m Dependencies Installed \e[0m"
 sleep 2
 echo -e "\e[1;42m Proceeding To Install Tools :) \e[0m"
