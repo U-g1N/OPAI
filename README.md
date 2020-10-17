@@ -14,7 +14,9 @@ nikto          nmap           pdfcrack      peda
 pngcheck       radare2        recon-ng      ROPGadget  
 ropper         setoolkit      stegsnow      sonic-visualiser
 sqlmap         stegcracker    steghide      unix-privesc-check 
-stegsolve      tcpflow         testdisc      wordpresscan  
+stegsolve      tcpflow        testdisc      wordpresscan  
 volatility     wireshark      wordlists   
 zbar-tools     zenmap         zsteg
 ```
+# Attribution
+This project was inspired from [onepunchinstaller](https://github.com/AdityaSec/onepunchinstaller)
